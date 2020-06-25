@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="info.rue.web.example.exam01.mapper.Exam01Mapper">
+
+    <select id="dbTest" resultType="string">
+        SELECT  TO_CHAR(SYSDATE, 'YYYYMMDD HH24MISS') AS CURR_SYS_DATE
+          FROM  DUAL
+    </select>
+
+</mapper>
