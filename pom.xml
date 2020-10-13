@@ -29,7 +29,7 @@
         <slf4j.version>1.7.30</slf4j.version>
         <thymeleaf-spring5.version>3.0.11.RELEASE</thymeleaf-spring5.version>
         <jackson-databind.version>2.11.0</jackson-databind.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.source>${java.version}</maven.compiler.source>
     </properties>
