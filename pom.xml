@@ -20,7 +20,7 @@
         <spring.version>5.2.7.RELEASE</spring.version>
         <ojdbc.version>18.3.0.0</ojdbc.version>
         <mybatis-spring.version>2.0.5</mybatis-spring.version>
-        <mybatis.version>3.5.5</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <cglib.version>3.3.0</cglib.version>
         <servlet.version>3.1.0</servlet.version>
         <lombok.version>1.18.12</lombok.version>
